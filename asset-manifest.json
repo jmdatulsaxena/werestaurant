@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/werestaurant/static/css/main.3c088988.chunk.css",
-    "main.js": "/werestaurant/static/js/main.3ab684c6.chunk.js",
-    "main.js.map": "/werestaurant/static/js/main.3ab684c6.chunk.js.map",
+    "main.js": "/werestaurant/static/js/main.c9b01167.chunk.js",
+    "main.js.map": "/werestaurant/static/js/main.c9b01167.chunk.js.map",
     "runtime~main.js": "/werestaurant/static/js/runtime~main.75480e22.js",
     "runtime~main.js.map": "/werestaurant/static/js/runtime~main.75480e22.js.map",
     "static/js/2.b335b0f1.chunk.js": "/werestaurant/static/js/2.b335b0f1.chunk.js",
     "static/js/2.b335b0f1.chunk.js.map": "/werestaurant/static/js/2.b335b0f1.chunk.js.map",
     "index.html": "/werestaurant/index.html",
-    "precache-manifest.5aa7319f28a98c45e015fd1a3dfd65d8.js": "/werestaurant/precache-manifest.5aa7319f28a98c45e015fd1a3dfd65d8.js",
+    "precache-manifest.e14ffe1cc53a3111c4cc85c28ed289b8.js": "/werestaurant/precache-manifest.e14ffe1cc53a3111c4cc85c28ed289b8.js",
     "service-worker.js": "/werestaurant/service-worker.js",
     "static/css/main.3c088988.chunk.css.map": "/werestaurant/static/css/main.3c088988.chunk.css.map"
   }
