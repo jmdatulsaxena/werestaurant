@@ -10,7 +10,7 @@ class App extends React.Component {
     onSearchSubmit= async(zip)=> {
    
         const WApi_Key = '46fbccf86507b640e7eefa10c686dd85';
-        const Wapi_call = await fetch(`http://api.openweathermap.org/data/2.5/weather?zip=${zip},us&units=imperial&appid=${WApi_Key}`).catch(()=>console.log("Can't access URL" ))
+        const Wapi_call = await fetch(`https://api.openweathermap.org/data/2.5/weather?zip=${zip},us&units=imperial&appid=${WApi_Key}`).catch(()=>console.log("Can't access URL" ))
   
         const response_weather = await Wapi_call.json();
         
